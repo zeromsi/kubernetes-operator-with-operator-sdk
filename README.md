@@ -407,7 +407,7 @@ Now, we're almost ready to build our operator. But before that as we've changed 
 
 ### Build operator image from source code
 
-```$ operator-sdk build klovercloud/app-operator```
+```$ operator-sdk build zeromsi/app-operator```
 
 This commad basically does two things,
 - build target
